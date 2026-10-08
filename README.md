@@ -60,7 +60,7 @@ The notebook covers:
 - **North Indian** is the most frequently mentioned cuisine, followed by Chinese and Fast Food.
 - **2,148 restaurants** have a rating of 0; these are treated as **not rated**, rather than zero-star restaurants.
 - **Price range 1** is the most common category.
-- Restaurants offering **online delivery** have a higher average rating than restaurants without online delivery in this dataset.
+- Restaurants offering **online delivery** have a slightly lower average rating than restaurants without online delivery in this dataset.
 - Restaurants offering **table booking** have a higher average rating than restaurants without table booking.
 - Customer **votes** show a moderate positive association with rating, while average cost has only a very weak linear association with rating.
 - These results describe associations in the dataset and **do not prove causation**.
