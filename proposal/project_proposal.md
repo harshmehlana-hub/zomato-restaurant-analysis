@@ -12,7 +12,7 @@ The project will investigate:
 - Distribution of restaurant ratings.
 - Distribution across price ranges.
 - Relationship between restaurant cost and aggregate rating.
-- Differences in ratings/popularity for online-delivery restaurants.
+- Differences in ratings for online-delivery restaurants.
 - Differences between restaurants with and without table booking.
 - Relationship between customer votes and restaurant ratings.
 
@@ -24,7 +24,7 @@ The project will investigate:
 | Rating Distribution | Show the spread of ratings. | Understand the overall rating pattern. |
 | Price Range Distribution | Compare restaurants by price category. | Identify the most common price range. |
 | Cost vs Rating | Examine relationship between cost and rating. | Determine whether higher cost is associated with higher ratings. |
-| Online Delivery Comparison | Compare delivery availability with ratings/votes. | Identify differences between delivery and non-delivery restaurants. |
+| Online Delivery Comparison | Compare delivery availability with ratings. | Identify differences between delivery and non-delivery restaurants. |
 | Table Booking Comparison | Compare booking availability with ratings/popularity. | Study whether booking availability is associated with ratings/popularity. |
 | Votes vs Rating | Study customer engagement against ratings. | Understand whether highly rated restaurants tend to receive more votes. |
 | Correlation Heatmap | Show relationships among numerical variables. | Identify useful positive/negative relationships. |
@@ -40,13 +40,13 @@ The project will investigate:
 
 ## 5. Team Work Distribution
 ### Harsh Mehlana
-Dataset understanding, data cleaning, exploratory analysis, and selected statistical analysis.
+Dataset understanding, data cleaning, exploratory analysis, notebook development, and selected statistical analysis.
 
 ### Fenil Parmar
-Visualization, interpretation of findings, documentation, and README preparation.
+Visualization support, interpretation of findings, documentation, and README preparation.
 
 ### Both
 Final review, testing, refinement, and submission preparation.
 
 ## 6. Expected Final Outcome
-The project will produce a cleaned and analyzed Zomato dataset, meaningful visualizations, and evidence-based findings about restaurant ratings, pricing, cuisines, customer votes, and service facilities.
+The project will produce a reproducible Python analysis notebook, meaningful visualizations, and evidence-based findings about restaurant ratings, pricing, cuisines, customer votes, and service facilities. The raw dataset is loaded from the public Kaggle source, and rating value 0 is treated as not rated during rating-based analysis.
