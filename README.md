@@ -43,3 +43,7 @@ Source: Kaggle — Zomato Restaurants Data
 https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data
 
 The raw dataset is provided separately by the course/project team and will be processed during the analysis stage.
+## Team Contributions
+
+- Harsh Mehlana: Project setup, dataset analysis, data cleaning, and visualizations.
+- Fenil Parmar: Data exploration, visualization support, interpretation of results, and documentation.
